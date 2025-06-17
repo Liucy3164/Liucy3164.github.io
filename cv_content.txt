@@ -1,0 +1,92 @@
+Cheng-Yu Liu
+Taipei City, Taiwan, R.O.C
+316497z@gmail.com | (+886) 975 852 255 | ResearchGate | Google Scholar
+
+EDUCATION
+Department of Physics, National Taiwan University
+Master of Science
+
+Taipei,Taiwan
+Sept. 2021—July. 2024
+
+Department of Physics, National Central University
+Bachelor of Science
+
+Taoyaun, Taiwan
+Sept. 2017—June. 2021
+
+EXPERIENCE
+Research Assistant
+Institute of Atomic and Molecular Science, Academic Sinica
+Research Assistant
+Department of Physics, National Taiwan University
+
+Taipei,Taiwan
+Oct. 2024—Presnt
+Taipei,Taiwan
+Sept. 2024—Oct. 2024
+
+RELEVANT COURSES
+• Introduction to Quantum Optics GPA 4.3/4.3
+• Applications of Quantum Computation GPA 4.3/4.3
+• General Physics A (first semester) 97/100
+
+PUBLICATIONS AND PRESENTATIONS
+1. C. G. Feyisa, Cheng-Yu Liu, Muhammad S. Hasan, J. S. You, Huan-Yu Ku, and H. H. Jen, “Robustness of tripartite
+entangled states in passive PT-symmetric qubits,” arXiv:2411.17457 under review (Commun. Phys).
+2. Cheng-Yu Liu, C. G. Feyisa, Muhammad S. Hasan, and H. H. Jen, “High-fidelity multipartite entanglement creation in
+non-Hermitian qubits” arXiv:2412.01133 under review (J. Phys. B).
+3. Cheng-Yu Liu, Ming-Shien Chang, Guin-Dar Lin, “Novel drive through entangling gate mediated by a cavity” in
+preparation will based on my master thesis https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/94396. → The work is
+presented by my Professor Guin-Dar Lin in Joint Symposium on Quantum Computing 2024.
+RESEARCH INTERESTS
+• Trapped ion system
+
+Previous work: 1D,2D,3D crystal trajectories mathematical and numerical simulation, geometric phase gate
+schemes, ion transportation method, suitable species choices.
+My new ideas: 1. A CZ gate based on triggering ions motion when one ion moving inside cavity. 2. Hybird system of
+ions and atoms. 3. Kicking ions outside Lamb-Dicke limit for distant, scalable connection.
+• Rydberg atom platform
+
+Previous work: Numerical simulation, laser implementation, possible gate schemes, ion transportation method,
+suitable species choices.
+My new ideas: 1. A possible scheme to connect atoms outside one Rydberg blockade radius. 2. Hybird system of
+ions and atoms.
+• Non-Hermiticity in superconducting qubits
+
+Previous work: 3-qubit and 4-qubit gate design in non-Hermitain all-to-all connected superconducting qubits,
+accelerating entanglement compared with Hermitian regime, Pulse shaping in non-Hermitian system.
+• Cavity QED system
+
+Previous work: Gate design utilising spatial dependent Tavis-Cummings model.
+My new ideas: 1. Combination with trapped ion normal modes and cavity mode for a CZ gate. → Analysis of
+coupling between phonon and photon might be interesting.
+• Quantum computing and quantum information
+
+Previous work: Decomposing an entangled state using an entangling gate, which I designed in a superconducting
+qubits non-Hermitian system. This gate functions as a combination of two consecutive controlled-controlled-Z gates.
+
+RESEARCH POSTER PRESENTATION DESIGN © 2019
+
+www.PosterPresentations.com
+
+TECHINICAL SKILLS
+Numerical calculations and analytical calculations tool, mainly Julia and Mathematica
+Experience and ability to pictorize and visulize physics problem and later try to demonstrate in math and coding, especially in the Quantum
+optics and Quantum information field.
+
+ACTIVITIES
+Poster session in annual meeting of the physical society of Taiwan 2024
+Poster session and oral presentation in physics annual meeting, National Central University 2020
+Participant in Joint Symposium on Quantum Computing 2024
+Participant in Workshop on Quantum Science and Technology 2024
+
+Participant in Atomic, Molecular and Optical Summer school 2023
+Speaker and vice president in English conversation group in National Central University 2020-2021
+Volunteer singer on Taipei Street and member of various Music Clubs
+
+RESEARCH POSTER PRESENTATION DESIGN © 2019
+
+www.PosterPresentations.com
+
+

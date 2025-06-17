@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cheng-Yu Liu - Curriculum Vitae</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --parchment: #f4f1e8;
+            --dark-parchment: #e8e2d5;
+            --ink: #2c1810;
+            --gold: #d4af37;
+            --forest-green: #4a5d23;
+            --deep-green: #2d3a14;
+            --shadow: rgba(44, 24, 16, 0.1);
+            --text-shadow: rgba(44, 24, 16, 0.3);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Crimson Text', serif;
+            background: linear-gradient(135deg, #8b9467 0%, #5a6b3a 50%, #3d4a26 100%);
+            min-height: 100vh;
+            padding: 2rem;
+            color: var(--ink);
+            line-height: 1.6;
+        }
+
+        .parchment-container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: var(--parchment);
+            border-radius: 15px;
+            box-shadow: 
+                0 20px 40px rgba(0, 0, 0, 0.3),
+                inset 0 1px 0 rgba(255, 255, 255, 0.8),
+                inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .parchment-container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: 
+                radial-gradient(circle at 20% 80%, rgba(139, 148, 103, 0.1) 0%, transparent 50%),
+                radial-gradient(circle at 80% 20%, rgba(212, 175, 55, 0.05) 0%, transparent 50%),
+                radial-gradient(circle at 40% 40%, rgba(90, 107, 58, 0.08) 0%, transparent 50%);
+            pointer-events: none;
+        }
+
+        .header {
+            background: linear-gradient(135deg, var(--forest-green) 0%, var(--deep-green) 100%);
+            color: var(--parchment);
+            padding: 3rem 2rem;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .header::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><circle cx="50" cy="50" r="2" fill="rgba(212,175,55,0.1)"/></svg>') repeat;
+            animation: sparkle 20s linear infinite;
+            pointer-events: none;
+        }
+
+        @keyframes sparkle {
+            0% { transform: rotate(0deg) translateX(0); }
+            100% { transform: rotate(360deg) translateX(10px); }
+        }
+
+        .name {
+            font-family: 'Cinzel', serif;
+            font-size: 3.5rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            text-shadow: 2px 2px 4px var(--text-shadow);
+            letter-spacing: 2px;
+        }
+
+        .title {
+            font-family: 'EB Garamond', serif;
+            font-size: 1.4rem;
+            font-style: italic;
+            opacity: 0.9;
+            margin-bottom: 1rem;
+        }
+
+        .contact-info {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 2rem;
+            font-size: 1rem;
+        }
+
+        .contact-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .content {
+            padding: 3rem;
+            position: relative;
+        }
+
+        .section {
+            margin-bottom: 3rem;
+            position: relative;
+        }
+
+        .section-title {
+            font-family: 'Cinzel', serif;
+            font-size: 2rem;
+            font-weight: 500;
+            color: var(--forest-green);
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 3px solid var(--gold);
+            position: relative;
+        }
+
+        .section-title::after {
+            content: '';
+            position: absolute;
+            bottom: -3px;
+            left: 0;
+            width: 60px;
+            height: 3px;
+            background: var(--forest-green);
+        }
+
+        .education-item, .experience-item {
+            background: var(--dark-parchment);
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            border-radius: 10px;
+            border-left: 4px solid var(--gold);
+            box-shadow: 0 4px 8px var(--shadow);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .education-item:hover, .experience-item:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 16px var(--shadow);
+        }
+
+        .item-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        .item-title {
+            font-family: 'EB Garamond', serif;
+            font-size: 1.3rem;
+            font-weight: 600;
+            color: var(--forest-green);
+        }
+
+        .item-location {
+            font-style: italic;
+            color: var(--ink);
+            opacity: 0.8;
+        }
+
+        .item-subtitle {
+            font-size: 1.1rem;
+            margin-bottom: 0.3rem;
+            color: var(--ink);
+        }
+
+        .item-date {
+            font-style: italic;
+            color: var(--forest-green);
+            font-weight: 500;
+        }
+
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .skill-category {
+            background: var(--dark-parchment);
+            padding: 1.5rem;
+            border-radius: 10px;
+            border-top: 4px solid var(--gold);
+            box-shadow: 0 4px 8px var(--shadow);
+        }
+
+        .skill-category h4 {
+            font-family: 'Cinzel', serif;
+            color: var(--forest-green);
+            margin-bottom: 1rem;
+            font-size: 1.2rem;
+        }
+
+        .publications-list {
+            counter-reset: publication-counter;
+        }
+
+        .publication-item {
+            background: var(--dark-parchment);
+            padding: 1.5rem;
+            margin-bottom: 1rem;
+            border-radius: 10px;
+            border-left: 4px solid var(--forest-green);
+            box-shadow: 0 4px 8px var(--shadow);
+            counter-increment: publication-counter;
+            position: relative;
+        }
+
+        .publication-item::before {
+            content: counter(publication-counter);
+            position: absolute;
+            left: -2px;
+            top: -10px;
+            background: var(--gold);
+            color: var(--ink);
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 0.9rem;
+            box-shadow: 0 2px 4px var(--shadow);
+        }
+
+        .research-interests {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .interest-item {
+            background: var(--dark-parchment);
+            padding: 1.5rem;
+            border-radius: 10px;
+            border: 2px solid var(--gold);
+            box-shadow: 0 4px 8px var(--shadow);
+            transition: transform 0.3s ease;
+        }
+
+        .interest-item:hover {
+            transform: scale(1.02);
+        }
+
+        .interest-title {
+            font-family: 'Cinzel', serif;
+            color: var(--forest-green);
+            margin-bottom: 1rem;
+            font-size: 1.2rem;
+        }
+
+        .activities-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+        }
+
+        .activity-item {
+            background: var(--dark-parchment);
+            padding: 1rem;
+            border-radius: 8px;
+            border-left: 3px solid var(--gold);
+            box-shadow: 0 2px 4px var(--shadow);
+        }
+
+        .footer {
+            background: var(--forest-green);
+            color: var(--parchment);
+            text-align: center;
+            padding: 2rem;
+            font-style: italic;
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 1rem;
+            }
+
+            .name {
+                font-size: 2.5rem;
+            }
+
+            .contact-info {
+                flex-direction: column;
+                gap: 1rem;
+            }
+
+            .content {
+                padding: 2rem;
+            }
+
+            .item-header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .skills-grid,
+            .research-interests,
+            .activities-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .ornament {
+            text-align: center;
+            font-size: 2rem;
+            color: var(--gold);
+            margin: 2rem 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="parchment-container">
+        <header class="header">
+            <h1 class="name">Cheng-Yu Liu</h1>
+            <p class="title">Quantum Physics Researcher & Computational Scientist</p>
+            <div class="contact-info">
+                <div class="contact-item">
+                    <span>📍</span>
+                    <span>Taipei City, Taiwan, R.O.C</span>
+                </div>
+                <div class="contact-item">
+                    <span>📧</span>
+                    <span>316497z@gmail.com</span>
+                </div>
+                <div class="contact-item">
+                    <span>📱</span>
+                    <span>(+886) 975 852 255</span>
+                </div>
+                <div class="contact-item">
+                    <span>🔬</span>
+                    <span>ResearchGate | Google Scholar</span>
+                </div>
+            </div>
+        </header>
+
+        <main class="content">
+            <section class="section">
+                <h2 class="section-title">Education</h2>
+                
+                <div class="education-item">
+                    <div class="item-header">
+                        <div>
+                            <h3 class="item-title">Master of Science in Physics</h3>
+                            <p class="item-subtitle">National Taiwan University</p>
+                        </div>
+                        <div>
+                            <p class="item-location">Taipei, Taiwan</p>
+                            <p class="item-date">Sept. 2021 — July 2024</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="education-item">
+                    <div class="item-header">
+                        <div>
+                            <h3 class="item-title">Bachelor of Science in Physics</h3>
+                            <p class="item-subtitle">National Central University</p>
+                        </div>
+                        <div>
+                            <p class="item-location">Taoyuan, Taiwan</p>
+                            <p class="item-date">Sept. 2017 — June 2021</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <div class="ornament">❦ ❦ ❦</div>
+
+            <section class="section">
+                <h2 class="section-title">Experience</h2>
+                
+                <div class="experience-item">
+                    <div class="item-header">
+                        <div>
+                            <h3 class="item-title">Research Assistant</h3>
+                            <p class="item-subtitle">Institute of Atomic and Molecular Science, Academia Sinica</p>
+                        </div>
+                        <div>
+                            <p class="item-location">Taipei, Taiwan</p>
+                            <p class="item-date">Oct. 2024 — Present</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="experience-item">
+                    <div class="item-header">
+                        <div>
+                            <h3 class="item-title">Research Assistant</h3>
+                            <p class="item-subtitle">Department of Physics, National Taiwan University</p>
+                        </div>
+                        <div>
+                            <p class="item-location">Taipei, Taiwan</p>
+                            <p class="item-date">Sept. 2024 — Oct. 2024</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <div class="ornament">❦ ❦ ❦</div>
+
+            <section class="section">
+                <h2 class="section-title">Technical Skills</h2>
+                <div class="skills-grid">
+                    <div class="skill-category">
+                        <h4>Programming & Computation</h4>
+                        <p>Numerical calculations and analytical calculations using Julia and Mathematica. Expertise in quantum optics and quantum information computational methods.</p>
+                    </div>
+                    <div class="skill-category">
+                        <h4>Visualization & Analysis</h4>
+                        <p>Advanced ability to visualize and pictorize physics problems, translating complex concepts into mathematical models and computational solutions.</p>
+                    </div>
+                    <div class="skill-category">
+                        <h4>Relevant Coursework</h4>
+                        <p>• Introduction to Quantum Optics (GPA 4.3/4.3)<br>
+                        • Applications of Quantum Computation (GPA 4.3/4.3)<br>
+                        • General Physics A (97/100)</p>
+                    </div>
+                </div>
+            </section>
+
+            <div class="ornament">❦ ❦ ❦</div>
+
+            <section class="section">
+                <h2 class="section-title">Publications & Presentations</h2>
+                <div class="publications-list">
+                    <div class="publication-item">
+                        <p><strong>C. G. Feyisa, Cheng-Yu Liu, Muhammad S. Hasan, J. S. You, Huan-Yu Ku, and H. H. Jen</strong>, "Robustness of tripartite entangled states in passive PT-symmetric qubits," arXiv:2411.17457 <em>under review (Commun. Phys)</em>.</p>
+                    </div>
+                    <div class="publication-item">
+                        <p><strong>Cheng-Yu Liu, C. G. Feyisa, Muhammad S. Hasan, and H. H. Jen</strong>, "High-fidelity multipartite entanglement creation in non-Hermitian qubits" arXiv:2412.01133 <em>under review (J. Phys. B)</em>.</p>
+                    </div>
+                    <div class="publication-item">
+                        <p><strong>Cheng-Yu Liu, Ming-Shien Chang, Guin-Dar Lin</strong>, "Novel drive through entangling gate mediated by a cavity" <em>in preparation</em> - based on master thesis. Presented by Professor Guin-Dar Lin at Joint Symposium on Quantum Computing 2024.</p>
+                    </div>
+                </div>
+            </section>
+
+            <div class="ornament">❦ ❦ ❦</div>
+
+            <section class="section">
+                <h2 class="section-title">Research Interests</h2>
+                <div class="research-interests">
+                    <div class="interest-item">
+                        <h4 class="interest-title">Trapped Ion Systems</h4>
+                        <p><strong>Previous work:</strong> 1D, 2D, 3D crystal trajectories mathematical and numerical simulation, geometric phase gate schemes, ion transportation methods, suitable species choices.</p>
+                        <p><strong>New ideas:</strong> CZ gate based on triggering ion motion when one ion moves inside cavity; hybrid system of ions and atoms; kicking ions outside Lamb-Dicke limit for distant, scalable connection.</p>
+                    </div>
+                    <div class="interest-item">
+                        <h4 class="interest-title">Rydberg Atom Platform</h4>
+                        <p><strong>Previous work:</strong> Numerical simulation, laser implementation, possible gate schemes, ion transportation methods, suitable species choices.</p>
+                        <p><strong>New ideas:</strong> Scheme to connect atoms outside one Rydberg blockade radius; hybrid system of ions and atoms.</p>
+                    </div>
+                    <div class="interest-item">
+                        <h4 class="interest-title">Non-Hermiticity in Superconducting Qubits</h4>
+                        <p><strong>Previous work:</strong> 3-qubit and 4-qubit gate design in non-Hermitian all-to-all connected superconducting qubits, accelerating entanglement compared with Hermitian regime, pulse shaping in non-Hermitian systems.</p>
+                    </div>
+                    <div class="interest-item">
+                        <h4 class="interest-title">Cavity QED System</h4>
+                        <p><strong>Previous work:</strong> Gate design utilizing spatial dependent Tavis-Cummings model.</p>
+                        <p><strong>New ideas:</strong> Combination with trapped ion normal modes and cavity mode for a CZ gate. Analysis of coupling between phonon and photon.</p>
+                    </div>
+                    <div class="interest-item">
+                        <h4 class="interest-title">Quantum Computing & Information</h4>
+                        <p><strong>Previous work:</strong> Decomposing entangled states using entangling gates designed in superconducting qubits non-Hermitian systems. Gate functions as combination of two consecutive controlled-controlled-Z gates.</p>
+                    </div>
+                </div>
+            </section>
+
+            <div class="ornament">❦ ❦ ❦</div>
+
+            <section class="section">
+                <h2 class="section-title">Activities & Presentations</h2>
+                <div class="activities-grid">
+                    <div class="activity-item">
+                        <strong>Poster session</strong><br>
+                        Annual meeting of the Physical Society of Taiwan 2024
+                    </div>
+                    <div class="activity-item">
+                        <strong>Poster & Oral Presentation</strong><br>
+                        Physics Annual Meeting, National Central University 2020
+                    </div>
+                    <div class="activity-item">
+                        <strong>Participant</strong><br>
+                        Joint Symposium on Quantum Computing 2024
+                    </div>
+                    <div class="activity-item">
+                        <strong>Participant</strong><br>
+                        Workshop on Quantum Science and Technology 2024
+                    </div>
+                    <div class="activity-item">
+                        <strong>Participant</strong><br>
+                        Atomic, Molecular and Optical Summer School 2023
+                    </div>
+                    <div class="activity-item">
+                        <strong>Speaker & Vice President</strong><br>
+                        English Conversation Group, National Central University 2020-2021
+                    </div>
+                    <div class="activity-item">
+                        <strong>Volunteer Singer</strong><br>
+                        Taipei Street performances and various Music Clubs
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <footer class="footer">
+            <p>"Not all those who wander are lost" — J.R.R. Tolkien</p>
+        </footer>
+    </div>
+</body>
+</html>
+
