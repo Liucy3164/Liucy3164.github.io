@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Welcome to the Shire</title>
   <link href="https://fonts.googleapis.com/css2?family=MedievalSharp&family=IM+Fell+English+SC&display=swap" rel="stylesheet">
   <style>
@@ -12,10 +12,11 @@
       background: url('https://upload.wikimedia.org/wikipedia/commons/f/f0/Hobbiton%2C_New_Zealand.jpg') no-repeat center center fixed;
       background-size: cover;
       font-family: 'IM Fell English SC', serif;
-      color: #f5f3e7;
+      color: #fdfae5;
     }
+
     .overlay {
-      background-color: rgba(0, 0, 0, 0.5);
+      background-color: rgba(0, 0, 0, 0.6);
       min-height: 100vh;
       display: flex;
       flex-direction: column;
@@ -24,27 +25,32 @@
       text-align: center;
       padding: 2rem;
     }
+
     h1 {
-      font-size: 3rem;
-      margin-bottom: 1rem;
-      text-shadow: 2px 2px 4px #000;
+      font-size: 3.5rem;
+      text-shadow: 2px 2px 5px #000;
     }
+
     p {
       font-size: 1.5rem;
       max-width: 600px;
+      margin-top: 1rem;
       text-shadow: 1px 1px 3px #000;
     }
+
     .button {
       margin-top: 2rem;
-      padding: 0.8rem 2rem;
+      padding: 1rem 2rem;
       font-size: 1.2rem;
-      border: none;
-      border-radius: 8px;
       background-color: #6a994e;
+      border: none;
+      border-radius: 10px;
       color: white;
       cursor: pointer;
+      box-shadow: 2px 2px 6px #000;
       transition: background-color 0.3s ease;
     }
+
     .button:hover {
       background-color: #386641;
     }
@@ -54,9 +60,12 @@
   <div class="overlay">
     <h1>Welcome to the Shire</h1>
     <p>
-      Beneath the Party Tree and beside the rolling green hills, a warm hearth and good company await.
+      “It's a dangerous business, Frodo, going out your door. You step onto the road,
+      and if you don't keep your feet, there's no knowing where you might be swept off to.”
     </p>
-    <button class="button">Enter Bag End</button>
+    <a href="https://github.com/yourusername/shire-home" target="_blank">
+      <button class="button">Enter Bag End</button>
+    </a>
   </div>
 </body>
 </html>
