@@ -9,13 +9,24 @@ Welcome to my website. I am Cheng-Yu (Louis) Liu. I earned a MS degree from Prof
 
 ## My Projects
 
-Here are some of my projects. Click on any project title to learn more:
-<ul>
+Here are some of my projects. Click on any project title or image to learn more:
 
-  <a href="/projects/project1.html" title="Project One: Quantum Research">
-  <img src="animation(2).gif" alt="Quantum Research GIF" style="width:200px; height:auto;" />
-</a>
-  <li><a href="/projects/project2.html">Project Two: Machine Learning Model</a></li>
-  <li><a href="/projects/project3.html">Project Three: Web Development Portfolio</a></li>
+<ul>
+  <li>
+    <a href="/projects/project1.html" title="Project One: Quantum Research">
+      <img src="/assets/images/project1_thumbnail.png" alt="Project One Thumbnail" style="width:150px; vertical-align: middle;" />
+      Project One: Quantum Research
+    </a>
+    <br>
+    <small>Click the image or title to see the video for Project One.</small>
+  </li>
+  
+  <li>
+    <a href="/projects/project2.html">Project Two: Machine Learning Model</a>
+  </li>
+  
+  <li>
+    <a href="/projects/project3.html">Project Three: Web Development Portfolio</a>
+  </li>
 </ul>
 
