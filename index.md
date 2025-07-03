@@ -13,7 +13,8 @@ Here are some of my projects. Click on any project title or image to learn more:
 
 ## My Projects
 
-[![Project One Thumbnail](/assets/images/project1_thumbnail.png)](/projects/project1.html)
+[![Project One](/assets/images/animation2.gif)](/projects/project1.html)
+
 
 Click the image above to see the animated GIF.
 
