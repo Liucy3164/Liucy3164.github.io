@@ -14,7 +14,7 @@ Here are some of my projects. Click on any project title or image to learn more:
 <ul>
   <li>
     <a href="/projects/project1.html" title="Project One: Quantum Research">
-      <img src="/assets/images/project1_thumbnail.png" alt="Project One Thumbnail" style="width:150px; vertical-align: middle;" />
+      <img src="animation(2).gif" alt="Project One Thumbnail" style="width:150px; vertical-align: middle;" />
       Project One: Quantum Research
     </a>
     <br>
