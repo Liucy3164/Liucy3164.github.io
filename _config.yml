@@ -1,4 +1,4 @@
 title: My Website
-remote_theme: pages-themes/cayman
+remote_theme: pages-themes/minimal
 plugins:
   - jekyll-remote-theme
