@@ -2,9 +2,6 @@
   <a href="/" style="margin-right: 30px;">Projects</a>
 </p>
 ---
-layout: default
-title: Blog
----
 
 # Blog 📝
 
