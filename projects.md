@@ -16,7 +16,7 @@ Designed and analyzed a new gate mechanism for quantum computing based on cavity
 ## 4. Novel Gate Scheme for trapped ions by combining motional and cavity modes 
 
 Designed and analyzed a new gate mechanism by considering coupling between spin states, motional modes, cavity modes.
----
+
 
 More projects coming soon!
 
