@@ -3,3 +3,4 @@ description: Personal website for quantum research
 remote_theme: pages-themes/minimal
 plugins:
   - jekyll-remote-theme
+show_downloads: false
