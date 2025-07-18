@@ -4,7 +4,7 @@
 
 Here are some of the research and simulation projects I've worked on:
 
-## 1. Simulation of Trapped Ion Micromotion Trajectories
+## [1. Simulation of Trapped Ion Micromotion Trajectories](/projects/micromotion/)
 Simulated the micromotion behavior of ions in a Paul trap to analyze their dynamics under RF fields. This work provides insights into optimizing trap parameters for stable confinement.
 
 ## 2. Simulation of Trapped Ion Phase Space Trajectories
