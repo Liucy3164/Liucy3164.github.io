@@ -6,7 +6,7 @@ permalink: /projects/micromotion/
 
 # 🌀 Simulation of Trapped Ion Micromotion Trajectories
 
-<img src="./micromotion.gif" alt="Micromotion Trajectory" style="width:100%; max-width:600px; border-radius:12px;" />
+<img src="/assets/micromotion.gif" alt="Micromotion"/>
 
 <img src="./jjAZxu.gif" alt="Micromotion Trajectory" style="width:100%; max-width:600px; border-radius:12px;" />
 
