@@ -1,5 +1,5 @@
 <p style="text-align: center;">
-  <a href="/" style="margin-right: 30px;">🏠Home</a>
+  <a href="/" style="margin-right: 30px;">🏠 Home</a>
   <a href="/publications.html" style="margin-right: 30px;">📄 Publications</a>
   <a href="/blog.html" style="margin-right: 30px;">📚 Blog</a>
 
