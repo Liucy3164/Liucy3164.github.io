@@ -1,4 +1,5 @@
-title: My Website
-remote_theme: pages-themes/slate
+title: Cheng-Yu Liu (Louis)
+description: Personal website for quantum research
+remote_theme: pages-themes/minimal
 plugins:
   - jekyll-remote-theme
