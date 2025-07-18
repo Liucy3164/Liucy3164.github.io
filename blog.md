@@ -1,5 +1,5 @@
 <p style="text-align: center;">
-  <a href="/" style="margin-right: 30px;">🛠️ Projects</a>
+  <a href="projects.html" style="margin-right: 30px;">🛠️ Projects</a>
 </p>
 ---
 
