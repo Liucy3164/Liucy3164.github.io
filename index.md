@@ -1,12 +1,15 @@
 ---
 layout: default
-title: Home
+title: Welcome to My Website
 ---
 
-# 👋 Welcome
+# Hello! 👋
 
-I'm Cheng-Yu (Louis) Liu, a researcher in quantum optics and quantum error correction.
+Welcome to my website. I am Cheng-Yu Liu (Louis), a researcher passionate about quantum computing, quantum information, and error correction. I earned my Master's degree in theoretical quantum physics from National Taiwan University, and I've worked on quantum optics and quantum simulations. Currently, I’m exploring research opportunities to contribute to cutting-edge quantum technologies.
 
+---
 
-- [📂 Projects](projects.html)
-- [📄 Publications](publications.html)
+## Explore More
+
+- [📚 Blog](./blog.html)
+- [📄 Publications](./publications.html)
