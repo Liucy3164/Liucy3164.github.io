@@ -1,3 +1,9 @@
+<p style="text-align: center;">
+  <a href="/" style="margin-right: 20px;">Home</a>
+  <a href="/blog.html" style="margin-right: 20px;">Blog</a>
+  <a href="/publications.html">Publications</a>
+</p>
+
 ---
 layout: default
 title: Welcome to My Website
