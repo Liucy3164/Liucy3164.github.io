@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Novel Cavity-mediated Gate Scheme
-permalink: /projects/micromotion/
+permalink: /projects/refinedversion/
 ---
 
 # 🔦 Design of a Novel Cavity-mediated Gate Scheme
