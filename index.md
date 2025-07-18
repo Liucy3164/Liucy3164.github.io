@@ -6,9 +6,6 @@
 </p>
 
 ---
-layout: default
-title: Welcome to My Website
----
 
 # Hello! 👋
 
