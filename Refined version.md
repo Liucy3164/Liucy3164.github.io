@@ -4,7 +4,7 @@ title: Novel Cavity-mediated gate scheme
 permalink: /projects/micromotion/
 ---
 
-# 🌀 Design of a cavity-mediated gate scheme
+# 🔦  Design of a new cavity-mediated gate scheme
 
 <img src="{{ 'graphs/refined version.gif' | relative_url }}" alt="Micromotion Trajectory" style="width:100%; max-width:600px; border-radius:12px;" />
 
