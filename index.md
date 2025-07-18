@@ -1,7 +1,7 @@
 <p style="text-align: center;">
-  <a href="/" style="margin-right: 20px;">📄 Publications</a>
+  <a href="/publications.html" style="margin-right: 20px;">📄 Publications</a>
   <a href="/blog.html" style="margin-right: 20px;">📚 Blog</a>
-  <a href="/publications.html">Publications</a>
+
 </p>
 
 ---
