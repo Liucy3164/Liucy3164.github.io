@@ -1,7 +1,7 @@
 
 # 📝 Notes
 
-## 🧪 [Trapped Ion System](/notes/trappedions/)
+## 🧪 [Trapped Ion System](/notes/trappedion/)
 (Brief summary or highlights, e.g. “Fundamentals of Paul trap operation, micromotion, secular motion dynamics, quantum gate.”)
 
 ## 🏛️ Cavity‑Mediated System
