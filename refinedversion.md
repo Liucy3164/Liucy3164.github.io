@@ -6,7 +6,7 @@ permalink: /projects/refinedversion/
 
 # 🔦 Design of a Novel Cavity-mediated Gate Scheme
 
-<img src="{{ 'graphs/refined_version.gif' | relative_url }}" alt="Micromotion Trajectory" style="width:100%; max-width:600px; border-radius:12px;" />
+<img src="{{ 'graphs/refined_version.gif' | relative_url }}" alt="refinedversion" style="width:100%; max-width:600px; border-radius:12px;" />
 
 <script type="text/javascript" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
