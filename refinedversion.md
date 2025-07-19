@@ -19,5 +19,3 @@ Further analysis and theoretical derivations are detailed in my Master's thesis:
 Supervised by Prof. Guin-Dar Lin, National Taiwan University
 
 ---
-
-> *Note: This work was completed as part of my Master's research. All code and derivations presented here were independently developed by me. The repository is shared for educational and scientific purposes.*
