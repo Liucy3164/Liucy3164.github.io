@@ -15,7 +15,7 @@ A key result shows that a second atom passing through the cavity with a coupling
 
 Further analysis and theoretical derivations are detailed in my Master's thesis:
 
-📄 [NTU Thesis: "Design of Cavity-Mediated Gates via Atomic Motion in Cavity QED"](https://doi.org/10.6342/NTU202401159)<br>
+📄 [NTU Thesis: "Novel drive-through entangling gate mediated by a cavity for atomic qubits"](https://doi.org/10.6342/NTU202401159)<br>
 Supervised by Prof. Guin-Dar Lin, National Taiwan University
 
 ---
