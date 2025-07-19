@@ -4,8 +4,4 @@ remote_theme: pages-themes/minimal
 plugins:
   - jekyll-remote-theme
 show_downloads: false
-<style>
-a[href*="github.com/Liucy3164"] {
-  display: none !important;
-}
-</style>
+
