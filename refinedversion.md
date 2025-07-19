@@ -11,7 +11,7 @@ permalink: /projects/refinedversion/
 
 This project presents a novel cavity-mediated controlled-Z gate protocol based on a three-stage process illustrated above. By modeling the system using the Tavis-Cummings framework and assuming an ideal laser shelving mechanism, an exact theoretical solution for the CZ gate is derived.
 
-A key result shows that a second atom passing through the cavity with a coupling strength of \( \frac{1}{\sqrt{3}} \) relative to the first atom leads to a perfect controlled-Z operation.
+A key result shows that a second atom passing through the cavity with a coupling strength of 1/√3 relative to the first atom leads to a perfect controlled-Z operation.
 
 Further analysis and theoretical derivations are detailed in my Master's thesis:
 
