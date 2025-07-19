@@ -4,5 +4,4 @@ remote_theme: pages-themes/minimal
 plugins:
   - jekyll-remote-theme
 show_downloads: false
-# Add this new line to hide GitHub profile link
 github_metadata: false
