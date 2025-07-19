@@ -8,9 +8,6 @@ permalink: /projects/refinedversion/
 
 <img src="{{ 'graphs/refined_version.gif' | relative_url }}" alt="refinedversion" style="width:100%; max-width:600px; border-radius:12px;" />
 
-<script type="text/javascript" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
 
 This project presents a novel cavity-mediated controlled-Z gate protocol based on a three-stage process illustrated above. By modeling the system using the Tavis-Cummings framework and assuming an ideal laser shelving mechanism, an exact theoretical solution for the CZ gate is derived.
 
