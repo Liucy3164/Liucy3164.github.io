@@ -19,6 +19,8 @@ Designed and analyzed a new gate mechanism by considering coupling between spin 
 
 ## [5. Implementations of the BBA4 protocol on IBM quantum hardware](/projects/BBA4/)
 
+## [6. Simulations on implementations of Bacon–Shor codes](/projects/Bacon-Shor sim/)
+
 
 
 More projects coming soon!
