@@ -1,24 +1,7 @@
 title: Cheng-Yu (Louis) Liu
 description: Personal website for quantum research
-remote_theme: pages-themes/minimal
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 show_downloads: false
 github_metadata: false
-
-include:
-  - assets/css/custom.css
-
-.single-line {
-  white-space: nowrap;
-  overflow-x: auto;
-}
-.single-line h1,
-.single-line h2,
-.single-line h3,
-.single-line p,
-.single-line a {
-  display: inline;
-  margin-right: 1rem;
-}
-
