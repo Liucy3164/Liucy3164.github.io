@@ -1,7 +1,25 @@
 
+---
+title: Projects
+---
+
+<style>
+.single-line {
+  white-space: nowrap;
+  overflow-x: auto;
+}
+.single-line h1,
+.single-line h2,
+.single-line h3,
+.single-line p,
+.single-line a {
+  display: inline;
+  margin-right: 1rem;
+}
+</style>
 
 <div class="single-line" markdown="1">
-  
+
 # 🛠️ Projects
 
 Here are some of the research and simulation projects I've worked on:
@@ -13,14 +31,18 @@ Simulated the micromotion behavior of ions in a Paul trap to analyze their dynam
 Explored the classical and quantum phase space trajectories of ions under different external field conditions. Visualizations help clarify the ion’s state evolution during manipulation.
 
 ## [3. Novel Cavity-Mediated Gate Scheme](/projects/refinedversion/)
-Designed and analyzed a new gate mechanism for quantum computing based on cavity QED. This scheme aims to achieve high-speed entangling operations using photonic interactions.
+Designed and analyzed a new gate mechanism for quantum computing based on cavity QED. This scheme aims to achieve high-speed entangling operations using photonic interactions. 
 
-## 4. Novel Gate Scheme for trapped ions by combining motional and cavity modes
+## 4. Novel Gate Scheme for trapped ions by combining motional and cavity modes 
 Designed and analyzed a new gate mechanism by considering coupling between spin states, motional modes, cavity modes.
 
 ## [5. Implementations of the BBA4 protocol on IBM quantum hardware](/projects/BBA4/)
+
 ## [6. Simulations of Bacon–Shor code implementations](/projects/Bacon-Shorsim/)
+
 More projects coming soon!
+
 </div>
+
 
 
