@@ -13,7 +13,7 @@ ions that are not directly involved in quantum gate operations.
 
 Furthermore, we have implemented Bacon–Shor codes in Python using the Qiskit package, and we are interested in extending this work to simulate errors in full quantum circuits in the future. The details of this ongoing project are presented in the poster below.
 
-At last, I am also interested in the mathematical framework for designing or improving possible error correcting circuits in the future.
+At last, I am also interested and trying to explore the mathematical framework for designing or improving current error correcting circuits in the future.
 
 <embed src="{{ 'graphs/QEC poster.pdf' | relative_url }}" 
        type="application/pdf" 
