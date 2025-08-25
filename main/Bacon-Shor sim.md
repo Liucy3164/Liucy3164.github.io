@@ -6,7 +6,7 @@ permalink: /projects/Bacon-Shorsim/
 
 # 💻 Simulations on Error Analysis of Planar Ion Crystals and Ion Chains Implementing the Bacon–Shor Code (on going)
 
-Building on both experimental research and theoretical foundations for implementing and comparing Bacon–Shor codes with trapped ions [[paper]]((https://doi.org/10.1126/sciadv.adp2008)), We begin interested in studying heating errors and gate speeds when implementing quantum circuits on 2D ion crystals or other ion structures. Below, we provide an analysis of a possible background setup for an 2D planar ion crystal with normal modes frequencies and participations for differnet ions.
+Building on both experimental research and theoretical foundations for implementing and comparing Bacon–Shor codes with trapped ions [1](https://doi.org/10.1126/sciadv.adp2008), We begin interested in studying heating errors and gate speeds when implementing quantum circuits on 2D ion crystals or other ion structures. Below, we provide an analysis of a possible background setup for an 2D planar ion crystal with normal modes frequencies and participations for differnet ions.
 
 We also note the potential of optical tweezers for controlling collective motional modes. In addition, we present a possible improvement in theoretical gate fidelity by introducing tweezers on
 ions that are not directly involved in quantum gate operations.
