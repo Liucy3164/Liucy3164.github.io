@@ -8,7 +8,7 @@ permalink: /projects/Bacon-Shorsim/
 
 [1]: https://doi.org/10.1126/sciadv.adp2008
 
-Building on both experimental research and theoretical foundations for implementing and comparing Bacon–Shor codes with trapped ions implementing Bacon–Shor codes with trapped ions [1].
+Building on both experimental research and theoretical foundations for implementing and comparing Bacon–Shor codes with trapped ions implementing Bacon–Shor codes with trapped ions [[1]].
 
 , We begin interested in studying heating errors and gate speeds when implementing quantum circuits on 2D ion crystals or other ion structures. Below, we provide an analysis of a possible background setup for an 2D planar ion crystal with normal modes frequencies and participations for differnet ions.
 
