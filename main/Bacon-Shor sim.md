@@ -5,6 +5,11 @@ permalink: /projects/Bacon-Shorsim/
 ---
 
 # 💻 Simulations on Error Analysis of Planar Ion Crystals and Ion Chains Implementing the Bacon–Shor Code (on going)
-<img src="{{ 'graphs/QEC poster.pdf' | relative_url }}" alt="QEC poster style="width:100%; max-width:600px; border-radius:12px;" />
+<embed src="{{ 'graphs/QEC poster.pdf' | relative_url }}" 
+       type="application/pdf" 
+       width="100%" 
+       height="600px" 
+       style="border-radius:12px;" />
+
 
 
