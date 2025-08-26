@@ -19,7 +19,7 @@ Designed and analyzed a new gate mechanism for quantum computing based on cavity
 
 Designed and analyzed a new gate mechanism by considering coupling between spin states, motional modes, cavity modes. 
 
-## [5. Implementations of the BBA4 protocol on IBM quantum hardware](/projects/BBA4/) 
+## [5. Implementations of the BB84 protocol on IBM quantum hardware](/projects/BBA4/) 
 
 ## [6. Simulations of Bacon–Shor code implementations](/projects/Bacon-Shorsim/) 
 
