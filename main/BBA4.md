@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Implementations of the BBA4 protocol on IBM quantum hardware
+title: Implementations of the BB84 protocol on IBM quantum hardware
 permalink: /projects/BBA4/
 ---
 
