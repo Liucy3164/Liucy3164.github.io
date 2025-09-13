@@ -6,8 +6,7 @@ permalink: /projects/cavitymotion/
 
 # 🪞 Cavity–motion gate scheme (early sketch)
 
-<img src="{{ 'graphs/cavity-motion.png' | relative_url }}" alt="cavitymotion" style="width:165%; max-width:900px; border-radius:16px;" />
-
+<img src="{{ 'graphs/cavity-motion.png' | relative_url }}" alt="cavitymotion" style="width:165%; max-width:900px; border-radius:15px;" />
 
 ---
 
