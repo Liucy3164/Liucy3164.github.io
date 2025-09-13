@@ -15,9 +15,9 @@ Explored the classical and quantum phase space trajectories of ions under differ
 
 Designed and analyzed a new gate mechanism for quantum computing based on cavity QED. This scheme aims to achieve high-speed entangling operations using photonic interactions. 
 
-## 4. Novel Gate Scheme for trapped ions by combining motional and cavity modes 
+## 4. Gate Scheme for trapped ions by combining motional and cavity modes (Early sketch and still surveying)
 
-Designed and analyzed a new gate mechanism by considering coupling between spin states, motional modes, cavity modes. 
+Theoretically analyzed a possible new gate mechanism by considering coupling between spin states, motional modes, cavity modes.  
 
 ## [5. Implementations of the BB84 protocol on IBM quantum hardware](/projects/BBA4/) 
 
