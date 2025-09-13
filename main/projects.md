@@ -15,7 +15,7 @@ Explored the classical and quantum phase space trajectories of ions under differ
 
 Designed and analyzed a new gate mechanism for quantum computing based on cavity QED. This scheme aims to achieve high-speed entangling operations using photonic interactions. 
 
-## [4. Early sketch of the cavity–motion gate scheme](\projects/cavitymotion/)
+## [4. Cavity–motion gate scheme (early sketch)](\projects/cavitymotion/)
 
 Theoretically analyzed a possible new gate by considering coupling between spin states, motional modes, cavity modes.  
 
