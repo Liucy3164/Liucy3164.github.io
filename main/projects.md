@@ -7,6 +7,11 @@ Here are some of the research and simulation projects I've worked on:
 
 Simulated the micromotion behavior of ions in a Paul trap to analyze their dynamics under RF fields. This work provides insights into optimizing trap parameters for stable confinement.
 
+👉 [Mathematica Micromotion Trajectories](https://github.com/Liucy3164/Mathematica-Micromotion-trajectories)
+
+This repo contains my `.nb` notebook so you can open it directly in Mathematica. 
+
+
 ## 2. Simulation of Trapped Ion Phase Space Trajectories 
 
 Explored the classical and quantum phase space trajectories of ions under different external field conditions. Visualizations help clarify the ion’s state evolution during manipulation. 
