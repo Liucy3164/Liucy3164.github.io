@@ -21,6 +21,6 @@ Theoretically analyzed a possible new gate by considering coupling between spin 
 
 ## [5. Implementations of the BB84 protocol on IBM quantum hardware](/projects/BBA4/) 
 
-## [6. Simulations on Error Analysis of Planar Ion Crystals and Ion Chains Implementing the Bacon–Shor Code (on going) (on going) ](/projects/Bacon-Shorsim/) 
+## [6. Simulations on Error Analysis of Planar Ion Crystals and Ion Chains Implementing the Bacon–Shor Code (on going)](/projects/Bacon-Shorsim/) 
 
 More projects coming soon!
