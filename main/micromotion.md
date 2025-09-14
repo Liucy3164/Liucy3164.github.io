@@ -11,3 +11,7 @@ permalink: /projects/micromotion/
 Simulated the micromotion behavior of ions in a Paul trap to analyze their dynamics under radio-frequency (RF) fields.
 This work enables deterministic control of ion trajectories, supporting scalable quantum computation in two-dimensional architectures.
 
+👉 [Mathematica Micromotion Trajectories](https://github.com/Liucy3164/Mathematica-Micromotion-trajectories)
+
+This repo contains my `.nb` notebook so you can open it directly in Mathematica. 
+
