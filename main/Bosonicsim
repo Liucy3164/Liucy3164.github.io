@@ -6,5 +6,7 @@ permalink: /projects/Bacon-Shorsim/
 
 # 💻 Simulations of gate sets for logical qubits encoded in bosonic qubits.
 
+One can check my Julia code for the simulation of logical X gate in bosonic system. By changning the definition of fideity, one could perform other gate sets and encoding process. 
+
 [1]: https://www.nature.com/articles/s41467-017-00045-1
 
