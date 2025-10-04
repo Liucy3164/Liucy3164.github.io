@@ -23,4 +23,8 @@ Theoretically analyzed a possible new gate by considering coupling between spin 
 
 ## [6. Simulations on Error Analysis of Planar Ion Crystals and Ion Chains Implementing the Bacon–Shor Code (on going)](/projects/Bacon-Shorsim/) 
 
+## [7. Simulations of gate sets for logical qubits encoded in bosonic qubits (on going)](/projects/Bosonicsim/) 
+
+
+
 More projects coming soon!
