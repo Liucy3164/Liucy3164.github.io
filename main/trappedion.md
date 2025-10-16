@@ -3,6 +3,8 @@ layout: default
 title: trapped ion notes
 permalink: /notes/trappedion/
 ---
+# 🌀 Micromotion notes 
+
 
 # 🌀 Introduction to trapped ion gate
 
