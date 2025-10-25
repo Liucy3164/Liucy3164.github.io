@@ -12,7 +12,7 @@ Following [[1]], one can check my Julia code for the simulation of logical X gat
 
 👉 [Simulations of gate sets for logical qubits encoded in bosonic qubits (RK4)](https://github.com/Liucy3164/Simulations-of-gate-sets-for-logical-qubits-encoded-in-bosonic-qubits)
 
-👉 [Simulations of gate sets for logical qubits encoded in bosonic qubits (piecewise exact propagation)](https://github.com/Liucy3164/Simulations-of-gate-sets-for-logical-qubits-encoded-in-bosonic-qubits)
+👉 [Simulations of gate sets for logical qubits encoded in bosonic qubits (piecewise propagation)](https://github.com/Liucy3164/Simulations-of-gate-sets-for-logical-qubits-encoded-in-bosonic-qubits)
 
 This repository contains my Julia notebooks (`.ipynb`) for simulating gate sets of logical qubits encoded in bosonic modes.  
 You can open the notebooks directly in Jupyter using the Julia kernel.
