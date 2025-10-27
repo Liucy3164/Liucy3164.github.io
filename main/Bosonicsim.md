@@ -16,7 +16,7 @@ By modifying the definition of fidelity, the Hilbert-space dimension, and the ma
 
 👉 [Simulations of gate sets for logical qubits encoded in bosonic qubits (piecewise propagation)](https://github.com/Liucy3164/Simulations-of-gate-sets-for-logical-qubits-encoded-in-bosonic-qubits)
 
-Fundamentally, the RK4 method offers fourth-order accuracy but requires dense time steps, especially for strongly anharmonic Hamiltonians. In contrast, piecewise propagators using the midpoint Hamiltonian are second-order accurate, remain exactly unitary, and are computationally more efficient.
+Fundamentally, the RK4 method offers fourth-order accuracy but requires dense timesteps, especially for strongly anharmonic Hamiltonians. In contrast, piecewise propagators using the midpoint Hamiltonian are second-order accurate, remain exactly unitary, and are computationally more efficient.
 
 This repository contains my Julia notebooks (`.ipynb`) for simulating gate sets of logical qubits encoded in bosonic modes.  
 You can open the notebooks directly in Jupyter using the Julia kernel.
