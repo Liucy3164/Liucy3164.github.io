@@ -8,7 +8,7 @@ permalink: /projects/Bosonicsim/
 
 [1]: https://www.nature.com/articles/s41467-017-00045-1
 
-Following [[1]], one can examine my Julia code implementing the L-BFGS and Nelder–Mead simulations of the logical X gate in a bosonic system. By modifying the definition of fidelity, the Hilbert-space dimension, and the maximum number of iterations (maxiter), one can simulate other gate sets or encoding processes.
+Following [[1]], one can examine my Julia code implementing the L-BFGS and Nelder–Mead optimizations of the logical X gate in a bosonic system. By modifying the definition of fidelity, the Hilbert-space dimension, and the maximum number of iterations (maxiter), one can simulate other gate sets or encoding processes.
 
 👉 [Simulations of gate sets for logical qubits encoded in bosonic qubits (RK4)](https://github.com/Liucy3164/Simulations-of-gate-sets-for-logical-qubits-encoded-in-bosonic-qubits)
 
