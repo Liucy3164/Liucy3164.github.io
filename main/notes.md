@@ -7,6 +7,6 @@
 ## 🏛️ Cavity‑Mediated System
 (Notes on cavity QED interactions, photon–atom coupling, gate implementations, etc.)
 
-## 🛡️ Quantum Error Correction
+## 🛡️ [Quantum Error Correction](/notes/QECpaperlist/)
 (Overviews of QEC codes, error syndromes, fault‑tolerant thresholds, etc.)
 
