@@ -7,6 +7,6 @@
 
 # Blog 📝
 
-Welcome to my blog! This is where I’ll post updates, ideas, projects, and notes.
+Welcome to my blog! This is where I’ll post updates, ideas, projects, notes, and collection of research papers.
 
 *Stay tuned!*
