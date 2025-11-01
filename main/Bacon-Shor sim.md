@@ -15,7 +15,7 @@ In the poster below, we provide an analysis of a possible background setup for a
 
 We also highlight the potential of optical tweezers for controlling collective motional modes [[2]]. In addition, we propose a possible improvement in theoretical gate fidelity by introducing tweezers on ions that are not directly involved in gate operations. Looking ahead, we are interested in implementing more localized confinement when the system allows for additional ancilla qubits or overhead resources.
 
-Furthermore, we have implemented the Bacon–Shor codes in Python using the Qiskit package, and we aim to build upon the work in [[1]] to simulate errors with modified gate and ion structures. The details of this ongoing project are presented in the poster.
+Furthermore, we have implemented the Bacon–Shor codes in Python using the Qiskit package, and we aim to build upon the work in [[1]] to simulate errors with modified gate and ion structures. The details of these ongoing efforts are presented in the poster.
 
 Finally, I am also interested in exploring the fundamental mathematical framework for designing or improving current error-correcting circuits in the future, which could be directly applied across various quantum computing platforms.
 
