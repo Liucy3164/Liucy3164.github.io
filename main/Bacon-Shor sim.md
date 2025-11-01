@@ -17,7 +17,7 @@ We also highlight the potential of optical tweezers for controlling collective m
 
 Furthermore, we have implemented the Bacon–Shor codes in Python using the Qiskit package, and we aim to build upon the work in [[1]] to simulate errors with modified gate and ion structures. The details of these ongoing efforts are presented in the poster.
 
-Finally, I am also interested in exploring the fundamental mathematical framework for designing or improving current error-correcting circuits in the future, which could be directly applied across various quantum computing platforms.
+Finally, I am also interested in exploring the fundamental mathematical framework for designing or improving current error-correcting circuits in the future, which could possibly be directly applied across various quantum computing platforms.
 
 <embed src="{{ 'graphs/QEC poster.pdf' | relative_url }}" 
        type="application/pdf" 
