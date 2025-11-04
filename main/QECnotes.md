@@ -3,7 +3,7 @@ layout: default
 title: trapped ion notes
 permalink: /notes/QECnotes/
 ---
-# 🌀 QEC Notes
+# 🛡️ QEC Notes
 
 <embed src="{{ 'graphs/NotesHom.pdf' | relative_url }}" 
        type="application/pdf" 
