@@ -8,7 +8,7 @@ permalink: /projects/Bosonicsim/
 
 [1]: https://www.nature.com/articles/s41467-017-00045-1
 
-Following [[1]], one can examine my Julia code implementing the L-BFGS and Nelder–Mead optimization methods for the logical X gate in a bosonic system. By representing the pulse shape as a Fourier series, I first determined the Fourier coefficients in a discrete manner, including high-frequency components up to fourty times the fundamental frequency. This allows the Fourier pulses to exhibit rapid and significant changes in amplitude. Subsequently, I compared the fidelities obtained from the discretized pulse shapes and from the continuous Fourier-series pulse constructed using the same optimized coefficients. The results show only negligible discrepancies.
+Following [[1]], one can examine my Julia code implementing the L-BFGS and Nelder–Mead optimization methods for the logical X gate (or encoding gate) in a bosonic system. By representing the pulse shape as a Fourier series, I first determined the Fourier coefficients in a discrete manner, including high-frequency components up to fourty times the fundamental frequency. This allows the Fourier pulses to exhibit rapid and significant changes in amplitude. Subsequently, I compared the fidelities obtained from the discretized pulse shapes and from the continuous Fourier-series pulse constructed using the same optimized coefficients. The results show only negligible discrepancies.
 
 By modifying the definition of fidelity, the Hilbert-space dimension, and the maximum number of iterations (maxiter), one can simulate other gate sets or encoding processes.
 
