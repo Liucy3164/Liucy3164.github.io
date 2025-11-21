@@ -5,7 +5,7 @@ permalink: /notes/trappedion/
 ---
 # 🌀 Micromotion notes 
 
-<embed src="{{ 'graphs/Three problems.pdf' | relative_url }}" 
+<embed src="{{ 'graphs/Three problems.png' | relative_url }}" 
        type="application/pdf" 
        width="200%" 
        height="1200px" 
