@@ -7,8 +7,8 @@ permalink: /notes/trappedion/
 
 <embed src="{{ 'graphs/Three problems.png' | relative_url }}" 
        type="application/pdf" 
-       width="250%" 
-       height="750px" 
+       width="180%" 
+       height="540px" 
        style="border-radius:24px;" />
 
 # 🌀 Introduction to trapped ion gate
