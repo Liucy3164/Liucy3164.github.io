@@ -1,6 +1,6 @@
 layout: default
-title: Bacon-Shor codes simulation
-permalink: /projects/Bacon-Shorsim/
+title: Bosonic quantum error correction 
+permalink: /projects/Bosonicerror/
 ---
 
 <embed src="{{ 'graphs/Bosonicerror.pdf' | relative_url }}" 
