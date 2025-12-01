@@ -19,5 +19,23 @@ A curated list of papers that I found interesting or influential.
   *Phys. Rev. A 110, 012453 – Published 22 July, 2024*  
 
 
+### Trapped ion system and Atomic qubits 
+- **[Robust gate design for large ion crystals through excitation of local phonon modes](https://arxiv.org/abs/2207.04583)**  
+  *L.-M. Duan*
+  *arXiv:2207.04583*
+- **[Two-tone Doppler cooling of radial two-dimensional crystals in a radio-frequency ion trap](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.023101)**  
+  *Alexander Kato, Apurva Goel,Raymond Lee, Zeyu Ye, Samip Karki,2 Jian Jun Liu*
+  *Phys. Rev. A 105, 023101 – Published 3 February, 2022*
+- **[Control of atomic entanglement by dynamic Stark effect](https://arxiv.org/abs/0708.0770)**  
+  *Biplab Ghosh, A. S. Majumdar, N. Nayak*
+  *arXiv:0708.0770*
+- **[On the Dynamics of the Tavis-Cummings Model]([https://arxiv.org/abs/0708.0770](https://arxiv.org/abs/2110.14174))**  
+  *Zhiyuan Dong, Guofeng Zhang, Ai-Guo Wu, Re-Bing Wu*
+  arXiv:2110.14174 -Submitted on 27 Oct 2021*
+  
+
+
+
+
 
 
