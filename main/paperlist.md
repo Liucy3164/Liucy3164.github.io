@@ -29,7 +29,7 @@ A curated list of papers that I found interesting or influential.
 - **[Control of atomic entanglement by dynamic Stark effect](https://arxiv.org/abs/0708.0770)**  
   *Biplab Ghosh, A. S. Majumdar, N. Nayak*
   *arXiv:0708.0770*
-- **[On the Dynamics of the Tavis-Cummings Model]([https://arxiv.org/abs/0708.0770](https://arxiv.org/abs/2110.14174))**  
+- **[On the Dynamics of the Tavis-Cummings Model]([https://arxiv.org/abs/0708.0770](https://arxiv.org/abs/2110.14174)**  
   *Zhiyuan Dong, Guofeng Zhang, Ai-Guo Wu, Re-Bing Wu*
   arXiv:2110.14174 -Submitted on 27 Oct 2021*
   
