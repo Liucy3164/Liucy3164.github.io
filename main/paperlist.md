@@ -5,6 +5,9 @@ A curated list of papers that I found interesting or influential.
 ---
 
 ### Quantum Error Correction
+- **[Quantum error correction for quantum memories](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.87.307)**  
+  *Barbara M. Terhal*  
+  *Rev. Mod. Phys. 87, 307 – Published 7 April, 2015*  
 - **[Fault tolerance against amplitude-damping noise using Bacon-Shor codes](https://journals.aps.org/prresearch/abstract/10.1103/89td-45nl)**  
   *Long D. H. My*, Akshaya Jayashankar*, Prabha Mandayam, and Hui Khoon Ng*  
   *Phys. Rev. Research 7, 033275 – Published 23 September, 2025*  
