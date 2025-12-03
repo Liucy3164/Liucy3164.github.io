@@ -62,9 +62,9 @@ A curated list of papers that I found interesting or influential.
 - **[Quantum Computation with Trapped Ions in an Optical Cavity](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.89.187903)**  
   *HJiannis Pachos and Herbert Walther*  
   *Phys. Rev. Lett. 89, 187903 – Published 14 October, 2002*
-
-
-
+- **[Fast adiabatic quantum state transfer and entanglement generation between two atoms via dressed states](https://www.nature.com/articles/srep46255)**  
+  *Jin-Lei Wu, Xin Ji & Shou Zhang *  
+  *https://doi.org/10.1038/srep46255*
 
 
 
