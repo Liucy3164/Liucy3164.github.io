@@ -83,7 +83,16 @@ A curated list of papers that I found interesting or influential.
 - **[Quantum gate using qubit states separated by terahertz](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.81.032322)**  
   *Kenji Toyoda, Shinsuke Haze, Rekishu Yamazaki, and Shinji Urabe*  
   *Phys. Rev. A 81, 032322 – Published 24 March, 2010*
-
-
-
+- **[Demonstration of the trapped-ion quantum CCD computer architecture](https://www.nature.com/articles/s41586-021-03318-4)**  
+  *J. M. Pino, J. M. Dreiling, C. Figgatt, J. P. Gaebler, S. A. Moses, M. S. Allman, C. H. Baldwin, M. Foss-Feig, D. Hayes, K. Mayer, C. Ryan-Anderson & B. Neyenhuis*  
+  *Nature volume 592, pages 209–213 (2021)*
+- **[Experimental issues in coherent quantum-state manipulation of trapped atomic ions](https://arxiv.org/abs/quant-ph/9710025)**  
+  *D.J. Wineland, C. Monroe, W.M. Itano, D. Leibfried, B.E. King, D.M. Meekhof*  
+  *arXiv:quant-ph/9710025*
+- **[Architecture for a large-scale ion-trap quantum computer](https://www.nature.com/articles/nature00784)**  
+  *D.J. Wineland, C. Monroe, W.M. Itano, D. Leibfried, B.E. King, D.M. Meekhof*  
+  *Nature volume 417, pages 709–711 (2002)*
+- **[  Shuttling of Rydberg Ions for Fast Entangling Operations](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.153603)**  
+  *J. Vogel, W. Li, A. Mokhberi, I. Lesanovsky, and F. Schmidt-Kaler*  
+  *Phys. Rev. Lett. 123, 153603 – Published 11 October, 2019*
 
