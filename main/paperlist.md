@@ -65,6 +65,8 @@ A curated list of papers that I found interesting or influential.
 - **[Fast adiabatic quantum state transfer and entanglement generation between two atoms via dressed states](https://www.nature.com/articles/srep46255)**  
   *Jin-Lei Wu, Xin Ji & Shou Zhang *  
   *https://doi.org/10.1038/srep46255*
-
+- **[Long-range quantum gate via Rydberg states of atoms in a thermal microwave cavity](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.030303)**  
+  *Lőrinc Sárkány, József Fortágh, and David Petrosyan*  
+  *https://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.030303*
 
 
