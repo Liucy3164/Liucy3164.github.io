@@ -59,7 +59,9 @@ A curated list of papers that I found interesting or influential.
 - **[Steady-state two-atom entanglement in a pumped cavity](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.80.042329)**  
   *Hideomi Nihira and C. R. Stroud, Jr*  
   *Phys. Rev. A 80, 042329 – Published 27 October, 2009*
-
+- **[Quantum Computation with Trapped Ions in an Optical Cavity](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.89.187903)**  
+  *HJiannis Pachos and Herbert Walther*  
+  *Phys. Rev. Lett. 89, 187903 – Published 14 October, 2002*
 
 
 
