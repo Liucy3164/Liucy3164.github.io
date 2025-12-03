@@ -19,7 +19,7 @@ A curated list of papers that I found interesting or influential.
   *Phys. Rev. A 110, 012453 – Published 22 July, 2024*  
 
 
-### Trapped ion system and Atomic qubits 
+### Trapped Ion System and Atomic Qubits 
 - **[Robust gate design for large ion crystals through excitation of local phonon modes](https://arxiv.org/abs/2207.04583)**  
   *L.-M. Duan*
   *arXiv:2207.04583*
@@ -32,6 +32,9 @@ A curated list of papers that I found interesting or influential.
 - **[On the Dynamics of the Tavis-Cummings Model](https://arxiv.org/abs/2110.14174)**  
   *Zhiyuan Dong, Guofeng Zhang, Ai-Guo Wu, Re-Bing Wu*
   arXiv:2110.14174 -Submitted on 27 Oct 2021*
+- **[Any-To-Any Connected Cavity-Mediated Architecture for Quantum Computing with Trapped Ions or Rydberg Arrays]([https://arxiv.org/abs/2110.14174](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.3.010344))**  
+  *Joshua Ramette, Josiah Sinclair, Zachary Vendeiro1, Alyssa Rudelis, Marko Cetina, and Vladan Vuletić
+  PRX Quantum 3, 010344 – Published 17 March, 2022*
   
 
 
