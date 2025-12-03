@@ -68,5 +68,12 @@ A curated list of papers that I found interesting or influential.
 - **[Long-range quantum gate via Rydberg states of atoms in a thermal microwave cavity](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.030303)**  
   *Lőrinc Sárkány, József Fortágh, and David Petrosyan*  
   *https://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.030303*
+- **[Resilient Mølmer-Sørensen gate with cavity QED](https://www.sciencedirect.com/science/article/abs/pii/S0375960120309002)**  
+  *Yan Wang, Jin-Lei Wu, Jin-Xuan Han, Yong-Yuan Jiang, Yan Xia, Jie Song*  
+  *https://doi.org/10.1016/j.physleta.2020.127033*
+
+
+
+
 
 
