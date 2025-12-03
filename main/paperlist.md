@@ -25,16 +25,16 @@ A curated list of papers that I found interesting or influential.
   *arXiv:2207.04583*
 - **[Two-tone Doppler cooling of radial two-dimensional crystals in a radio-frequency ion trap](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.023101)**  
   *Alexander Kato, Apurva Goel,Raymond Lee, Zeyu Ye, Samip Karki,2 Jian Jun Liu*
-  *Phys. Rev. A 105, 023101 – Published 3 February, 2022*
+  *Phys. Rev. A 105, 023101 – Published 3 February, 2022*  
 - **[Control of atomic entanglement by dynamic Stark effect](https://arxiv.org/abs/0708.0770)**  
-  *Biplab Ghosh, A. S. Majumdar, N. Nayak*
-  *arXiv:0708.0770*
+  *Biplab Ghosh, A. S. Majumdar, N. Nayak*  
+  *arXiv:0708.0770*  
 - **[On the Dynamics of the Tavis-Cummings Model](https://arxiv.org/abs/2110.14174)**  
-  *Zhiyuan Dong, Guofeng Zhang, Ai-Guo Wu, Re-Bing Wu*
-  *arXiv:2110.14174 -Submitted on 27 Oct 2021*
+  *Zhiyuan Dong, Guofeng Zhang, Ai-Guo Wu, Re-Bing Wu*  
+  *arXiv:2110.14174 -Submitted on 27 Oct 2021*  
 - **[Any-To-Any Connected Cavity-Mediated Architecture for Quantum Computing with Trapped Ions or Rydberg Arrays]([https://arxiv.org/abs/2110.14174](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.3.010344))**  
-  *Joshua Ramette, Josiah Sinclair, Zachary Vendeiro1, Alyssa Rudelis, Marko Cetina, and Vladan Vuletić*
-  *PRX Quantum 3, 010344 – Published 17 March, 2022*
+  *Joshua Ramette, Josiah Sinclair, Zachary Vendeiro1, Alyssa Rudelis, Marko Cetina, and Vladan Vuletić*  
+  *PRX Quantum 3, 010344 – Published 17 March, 2022*  
   
 
 
