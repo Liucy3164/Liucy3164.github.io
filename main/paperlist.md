@@ -77,8 +77,11 @@ A curated list of papers that I found interesting or influential.
 - **[Manipulating quantum entanglement with atoms and photons in a cavity](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.73.565)**  
   *J. M. Raimond, M. Brune, and S. Haroche*  
   *Rev. Mod. Phys. 73, 565 – Published 28 August, 2001*
+- **[Photon-Mediated Quantum Gate between Two Neutral Atoms in an Optical Cavity](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.011018)**  
+  *Stephan Welte*, Bastian Hacker, Severin Daiss, Stephan Ritter†, and Gerhard Rempe*  
+  *Phys. Rev. X 8, 011018 – Published 6 February, 2018*
 
-
+  
 
 
 
