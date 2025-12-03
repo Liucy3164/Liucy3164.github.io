@@ -80,8 +80,9 @@ A curated list of papers that I found interesting or influential.
 - **[Photon-Mediated Quantum Gate between Two Neutral Atoms in an Optical Cavity](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.011018)**  
   *Stephan Welte*, Bastian Hacker, Severin Daiss, Stephan Ritter†, and Gerhard Rempe*  
   *Phys. Rev. X 8, 011018 – Published 6 February, 2018*
-
-  
+- **[Quantum gate using qubit states separated by terahertz](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.81.032322)**  
+  *Kenji Toyoda, Shinsuke Haze, Rekishu Yamazaki, and Shinji Urabe*  
+  *Phys. Rev. A 81, 032322 – Published 24 March, 2010*
 
 
 
