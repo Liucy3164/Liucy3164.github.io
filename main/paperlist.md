@@ -45,7 +45,7 @@ A curated list of papers that I found interesting or influential.
   *Yifu Zhu, A. Lezama, and T. W. Mossberg, M. Lewenstein*  
   *Phys. Rev. Lett. 61, 1946 – Published 24 October, 1988*  
 - **[Photon collection from a trapped ion-cavity system](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.85.062308)**  
-  *J. D. Sterk1, L. Luo1, T. A. Manning, P. Maunz, and C. Monroe*  
+  *J. D. Sterk, L. Luo, T. A. Manning, P. Maunz, and C. Monroe*  
   *Phys. Rev. A 85, 062308 – Published 11 June, 2012*
 - **[Strong Coupling of a Single Ion to an Optical Cavity](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.013602)**  
   *Hiroki Takahashi, Ezra Kassa, Costas Christoforou, and Matthias Keller*  
