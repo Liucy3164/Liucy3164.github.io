@@ -71,6 +71,9 @@ A curated list of papers that I found interesting or influential.
 - **[Resilient Mølmer-Sørensen gate with cavity QED](https://www.sciencedirect.com/science/article/abs/pii/S0375960120309002)**  
   *Yan Wang, Jin-Lei Wu, Jin-Xuan Han, Yong-Yuan Jiang, Yan Xia, Jie Song*  
   *https://doi.org/10.1016/j.physleta.2020.127033*
+- **[Resilient Mølmer-Sørensen gate with cavity QED](https://arxiv.org/abs/1701.07749)**  
+  *Hiroki Takahashi, Pedro Nevado Serrano, Matthias Keller*  
+  *arXiv:1701.07749 *
 
 
 
