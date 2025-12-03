@@ -35,9 +35,13 @@ A curated list of papers that I found interesting or influential.
 - **[Any-To-Any Connected Cavity-Mediated Architecture for Quantum Computing with Trapped Ions or Rydberg Arrays](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.3.010344)**  
   *Joshua Ramette, Josiah Sinclair, Zachary Vendeiro1, Alyssa Rudelis, Marko Cetina, and Vladan Vuletić*  
   *PRX Quantum 3, 010344 – Published 17 March, 2022*
-- **[Efficient Engineering of Multiatom Entanglement through Single-Photon Detections]([https://arxiv.org/abs/2110.14174](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.90.253601))**  
+- **[Efficient Engineering of Multiatom Entanglement through Single-Photon Detections](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.90.253601)**  
   *L.-M. Duan, and H. J. Kimble*  
   *Phys. Rev. Lett. 90, 253601 – Published 23 June, 2003*  
+- **[Efficient Engineering of Multiatom Entanglement through Single-Photon Detections](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.79.1)**  
+  *E. Hagley, X. Maître, G. Nogues, C. Wunderlich, M. Brune, J. M. Raimond, and S. Haroche*  
+  *Phys. Rev. Lett. 79, 1 – Published 7 July, 1997*  
+
   
   
 
