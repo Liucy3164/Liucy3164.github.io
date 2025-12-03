@@ -55,7 +55,10 @@ A curated list of papers that I found interesting or influential.
   *Phys. Rev. Lett. 124, 013602 – Published 2 January, 2020*
 - **[A computational toolbox for quantum and atomic optics](https://iopscience.iop.org/article/10.1088/1464-4266/1/4/312)**  
   *Sze M Tan*  
-  *Sze M Tan 1999 J. Opt. B: Quantum Semiclass. Opt. 1 424*  
+  *Sze M Tan 1999 J. Opt. B: Quantum Semiclass. Opt. 1 424*
+- **[Steady-state two-atom entanglement in a pumped cavity](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.80.042329)**  
+  *Hideomi Nihira and C. R. Stroud, Jr*  
+  *Phys. Rev. A 80, 042329 – Published 27 October, 2009*
 
 
 
