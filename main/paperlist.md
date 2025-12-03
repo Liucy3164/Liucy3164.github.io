@@ -73,7 +73,7 @@ A curated list of papers that I found interesting or influential.
   *https://doi.org/10.1016/j.physleta.2020.127033*
 - **[Resilient Mølmer-Sørensen gate with cavity QED](https://arxiv.org/abs/1701.07749)**  
   *Hiroki Takahashi, Pedro Nevado Serrano, Matthias Keller*  
-  *arXiv:1701.07749 *
+  *arXiv:1701.07749*
 - **[Manipulating quantum entanglement with atoms and photons in a cavity](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.73.565)**  
   *J. M. Raimond, M. Brune, and S. Haroche*  
   *Rev. Mod. Phys. 73, 565 – Published 28 August, 2001*
