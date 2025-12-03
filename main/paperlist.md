@@ -47,8 +47,16 @@ A curated list of papers that I found interesting or influential.
 - **[Photon collection from a trapped ion-cavity system](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.85.062308)**  
   *J. D. Sterk1, L. Luo1, T. A. Manning, P. Maunz, and C. Monroe*  
   *Phys. Rev. A 85, 062308 – Published 11 June, 2012*
-  
-  
+- **[Strong Coupling of a Single Ion to an Optical Cavity](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.013602)**  
+  *Hiroki Takahashi, Ezra Kassa, Costas Christoforou, and Matthias Keller*  
+  *Phys. Rev. Lett. 124, 013602 – Published 2 January, 2020*  
+- **[Strong Coupling of a Single Ion to an Optical Cavity](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.013602)**  
+  *Hiroki Takahashi, Ezra Kassa, Costas Christoforou, and Matthias Keller*  
+  *Phys. Rev. Lett. 124, 013602 – Published 2 January, 2020*
+- **[A computational toolbox for quantum and atomic optics](https://iopscience.iop.org/article/10.1088/1464-4266/1/4/312)**  
+  *Sze M Tan*  
+  *Sze M Tan 1999 J. Opt. B: Quantum Semiclass. Opt. 1 424*  
+
 
 
 
