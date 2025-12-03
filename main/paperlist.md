@@ -41,7 +41,12 @@ A curated list of papers that I found interesting or influential.
 - **[Efficient Engineering of Multiatom Entanglement through Single-Photon Detections](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.79.1)**  
   *E. Hagley, X. Maître, G. Nogues, C. Wunderlich, M. Brune, J. M. Raimond, and S. Haroche*  
   *Phys. Rev. Lett. 79, 1 – Published 7 July, 1997*  
-
+- **[https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.61.1946](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.61.1946)**  
+  *Yifu Zhu, A. Lezama, and T. W. Mossberg, M. Lewenstein*  
+  *Phys. Rev. Lett. 61, 1946 – Published 24 October, 1988*  
+- **[Photon collection from a trapped ion-cavity system](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.85.062308)**  
+  *J. D. Sterk1, L. Luo1, T. A. Manning, P. Maunz, and C. Monroe*  
+  *Phys. Rev. A 85, 062308 – Published 11 June, 2012*
   
   
 
