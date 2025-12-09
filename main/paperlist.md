@@ -23,6 +23,11 @@ A curated list of papers that I found interesting or influential.
 - **[Subsystem Codes with High Thresholds by Gauge Fixing and Reduced Qubit Overhead](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031039?utm_source=chatgpt.com)**  
   *Oscar Higgott and Nikolas P. Breuckmann*
   Phys. Rev. X 11, 031039 – Published 19 August, 2021
+- **[Dynamical logical qubits in the Bacon-Shor code](https://journals.aps.org/pra/abstract/10.1103/nfxv-3dp7)**  
+  *M. Sohaib AlamEleanor Rieffel*
+  Phys. Rev. A 112, 022436 – Published 29 August, 2025
+
+
 
 
 
