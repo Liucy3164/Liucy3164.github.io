@@ -26,7 +26,7 @@ Theoretically analyzed a possible new gate by considering coupling between spin 
 
 ### [6. Simulations of gate sets for logical qubits encoded in bosonic qubits (on going)](/projects/Bosonicsim/) 
 
-### [6. Bosonic Quantum Error Correction](/projects/Bosonicerror) 
+### [7. Bosonic Quantum Error Correction](/projects/Bosonicerror) 
 
 
 
