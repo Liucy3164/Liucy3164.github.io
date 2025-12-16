@@ -1,5 +1,6 @@
+---
 layout: default
-title: Bosonic quantum error correction 
+title: Bosonic quantum error correction
 permalink: /projects/Bosonicerror/
 ---
 
