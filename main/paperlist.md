@@ -26,7 +26,9 @@ A curated list of papers that I found interesting or influential.
 - **[Dynamical logical qubits in the Bacon-Shor code](https://journals.aps.org/pra/abstract/10.1103/nfxv-3dp7)**  
   *M. Sohaib AlamEleanor Rieffel*
   Phys. Rev. A 112, 022436 – Published 29 August, 2025
-
+- **[Degenerate Quantum LDPC Codes With Good Finite Length Performance](https://arxiv.org/abs/1904.02703)**  
+  *Pavel Panteleev, Gleb Kalachev*
+  Quantum 5, 585 (2021). – Published 	2021-11-22
 
 
 
