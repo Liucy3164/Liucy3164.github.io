@@ -5,9 +5,11 @@ A curated list of papers that I found interesting or influential.
 ---
 
 ### Quantum Error Correction
+-Review Article
 - **[Quantum error correction for quantum memories](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.87.307)**  
   *Barbara M. Terhal*  
-  *Rev. Mod. Phys. 87, 307 – Published 7 April, 2015*  
+  *Rev. Mod. Phys. 87, 307 – Published 7 April, 2015*
+
 - **[Fault tolerance against amplitude-damping noise using Bacon-Shor codes](https://journals.aps.org/prresearch/abstract/10.1103/89td-45nl)**  
   *Long D. H. My, Akshaya Jayashankar*, Prabha Mandayam, and Hui Khoon Ng*  
   *Phys. Rev. Research 7, 033275 – Published 23 September, 2025*  
@@ -17,19 +19,40 @@ A curated list of papers that I found interesting or influential.
 - **[Fast and Parallelizable Logical Computation with Homological Product Codes](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021065)**  
   *Qian Xu, Hengyun Zhou, Guo Zheng, Dolev Bluvstein, J. Pablo Bonilla Ataides, Mikhail D. Lukin, and Liang Jiang*  
   *Phys. Rev. X 15, 021065 – Published 22 May, 2025*  
-- **[Increasing memory lifetime of quantum low-density parity check codes with sliding-window noisy syndrome decoding](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.012453)**  
-  *Shilin Huang and Shruti Puri*  
-  *Phys. Rev. A 110, 012453 – Published 22 July, 2024*
+  
+-Measurement
 - **[Subsystem Codes with High Thresholds by Gauge Fixing and Reduced Qubit Overhead](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031039?utm_source=chatgpt.com)**  
   *Oscar Higgott and Nikolas P. Breuckmann*
   Phys. Rev. X 11, 031039 – Published 19 August, 2021
 - **[Dynamical logical qubits in the Bacon-Shor code](https://journals.aps.org/pra/abstract/10.1103/nfxv-3dp7)**  
   *M. Sohaib AlamEleanor Rieffel*
   Phys. Rev. A 112, 022436 – Published 29 August, 2025
+- **[Fault-tolerant hyperbolic Floquet quantum error correcting codes](https://quantum-journal.org/papers/q-2025-09-05-1849/)**  
+  *Ali Fahimniya, Hossein Dehghani, Kishor Bharti, Sheryl Mathew, Alicia J. Kollár, Alexey V. Gorshkov, and Michael J. Gullans*
+  	Quantum 9, 1849 (2025) – Published 2025-09-05
+- **[Operator quantum error-correcting subsystems for self-correcting quantum memories](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.73.012340)**  
+  *Dave Bacon*
+  	Phys. Rev. A 73, 012340 – Published 30 January, 2006
+
+-Decoding and code constructions
 - **[Degenerate Quantum LDPC Codes With Good Finite Length Performance](https://arxiv.org/abs/1904.02703)**  
   *Pavel Panteleev, Gleb Kalachev*
-  Quantum 5, 585 (2021). – Published 	2021-11-22
+  Quantum 5, 585 (2021) – Published 	2021-11-22
+- **[Quantum "hyperbicycle" low-density parity check codes with finite rate](https://arxiv.org/abs/1212.6703)**  
+  *Alexey A. Kovalev, Leonid P. Pryadko*
+   	arXiv:1212.6703 – Submitted on 30 Dec 2012 
+- **[Increasing memory lifetime of quantum low-density parity check codes with sliding-window noisy syndrome decoding](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.012453)**  
+  *Shilin Huang and Shruti Puri*  
+  *Phys. Rev. A 110, 012453 – Published 22 July, 2024*
+- **[Decoding across the quantum low-density parity-check code landscape](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043423)**  
+  *Joschka Roffe1, David R. White, Simon Burton, and Earl Campbell*  
+  *Phys. Rev. Research 2, 043423 – Published 28 December, 2020*
+- **[Fault-Tolerant Belief Propagation for Practical Quantum Memory](https://arxiv.org/abs/2409.18689)**  
+  *Kao-Yueh Kuo, Ching-Yi Lai*  
+  *arXiv:2409.18689 – Submitted on 27 Sep 2024*
+  
 
+  
 
 
 
