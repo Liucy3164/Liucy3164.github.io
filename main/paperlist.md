@@ -32,7 +32,7 @@ A curated list of papers that I found interesting or influential.
   	Quantum 9, 1849 (2025) – Published 2025-09-05
 - **[Operator quantum error-correcting subsystems for self-correcting quantum memories](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.73.012340)**  
   *Dave Bacon*
-  	Phys. Rev. A 73, 012340 – Published 30 January, 2006
+  *Phys. Rev. A 73, 012340 – Published 30 January, 2006*
 
 -Decoding and code constructions
 - **[Degenerate Quantum LDPC Codes With Good Finite Length Performance](https://arxiv.org/abs/1904.02703)**  
@@ -52,7 +52,7 @@ A curated list of papers that I found interesting or influential.
   *arXiv:2409.18689 – Submitted on 27 Sep 2024*
 - **[Combining hard and soft decoders for hypergraph product codes](https://quantum-journal.org/papers/q-2021-04-15-432/)**  
   *Antoine Grospellier, Lucien Grouès, Anirudh Krishna, and Anthony Leverrier*  
-  *	Quantum 5, 432 (2021) – 2021-04-15*
+  *Quantum 5, 432 (2021) – 2021-04-15*
   
 
   
