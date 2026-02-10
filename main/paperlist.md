@@ -50,6 +50,9 @@ A curated list of papers that I found interesting or influential.
 - **[Fault-Tolerant Belief Propagation for Practical Quantum Memory](https://arxiv.org/abs/2409.18689)**  
   *Kao-Yueh Kuo, Ching-Yi Lai*  
   *arXiv:2409.18689 – Submitted on 27 Sep 2024*
+- **[Combining hard and soft decoders for hypergraph product codes](https://quantum-journal.org/papers/q-2021-04-15-432/)**  
+  *Antoine Grospellier, Lucien Grouès, Anirudh Krishna, and Anthony Leverrier*  
+  *	Quantum 5, 432 (2021) – 2021-04-15*
   
 
   
