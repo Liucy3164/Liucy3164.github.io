@@ -4,11 +4,9 @@ A curated list of papers that I found interesting or influential.
 
 ---
 
+
+
 ### Quantum Error Correction
--Review Article
-- **[Quantum error correction for quantum memories](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.87.307)**  
-  *Barbara M. Terhal*  
-  *Rev. Mod. Phys. 87, 307 – Published 7 April, 2015*
 
 - **[Fault tolerance against amplitude-damping noise using Bacon-Shor codes](https://journals.aps.org/prresearch/abstract/10.1103/89td-45nl)**  
   *Long D. H. My, Akshaya Jayashankar*, Prabha Mandayam, and Hui Khoon Ng*  
@@ -18,7 +16,12 @@ A curated list of papers that I found interesting or influential.
   *PRX Quantum 4, 030301 – Published 5 July, 2023*  
 - **[Fast and Parallelizable Logical Computation with Homological Product Codes](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021065)**  
   *Qian Xu, Hengyun Zhou, Guo Zheng, Dolev Bluvstein, J. Pablo Bonilla Ataides, Mikhail D. Lukin, and Liang Jiang*  
-  *Phys. Rev. X 15, 021065 – Published 22 May, 2025*  
+  *Phys. Rev. X 15, 021065 – Published 22 May, 2025*
+  
+-Review Article
+- **[Quantum error correction for quantum memories](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.87.307)**  
+  *Barbara M. Terhal*  
+  *Rev. Mod. Phys. 87, 307 – Published 7 April, 2015*
   
 -Measurement
 - **[Subsystem Codes with High Thresholds by Gauge Fixing and Reduced Qubit Overhead](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031039?utm_source=chatgpt.com)**  
