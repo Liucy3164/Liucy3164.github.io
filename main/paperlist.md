@@ -28,6 +28,11 @@ A curated list of papers that I found interesting or influential.
 - **[Surviving as a Quantum Computer in a Classical World](https://www.cs.umd.edu/~dgottesm/QECCbook-2024.pdf)**  
   *Daniel Gottesman*  
   *May 7 2024*
+- **[Review on the decoding algorithms for surface codes](https://quantum-journal.org/papers/q-2024-10-10-1498/pdf/)**  
+  *Antonio deMarti iOlius, Patricio Fuentes, Román Orús, Pedro M. Crespo, and Josu Etxezarreta Martinez*  
+  *Quantum 8, 1498 (2024)*
+
+  
 -Measurement
 - **[Subsystem Codes with High Thresholds by Gauge Fixing and Reduced Qubit Overhead](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031039?utm_source=chatgpt.com)**  
   *Oscar Higgott and Nikolas P. Breuckmann*
