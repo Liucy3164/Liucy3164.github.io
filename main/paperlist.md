@@ -22,7 +22,12 @@ A curated list of papers that I found interesting or influential.
 - **[Quantum error correction for quantum memories](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.87.307)**  
   *Barbara M. Terhal*  
   *Rev. Mod. Phys. 87, 307 – Published 7 April, 2015*
-  
+- **[Lectures on Topological Codes and Quantum Computation](https://sites.google.com/site/danbrowneucl/teaching/lectures-on-topological-codes-and-quantum-computation)**  
+  *Dan Browne*  
+  *delivered at the University of Innsbruck in May and June 2014*
+- **[Surviving as a Quantum Computer in a Classical World](https://www.cs.umd.edu/~dgottesm/QECCbook-2024.pdf)**  
+  *Daniel Gottesman*  
+  *May 7 2024*
 -Measurement
 - **[Subsystem Codes with High Thresholds by Gauge Fixing and Reduced Qubit Overhead](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031039?utm_source=chatgpt.com)**  
   *Oscar Higgott and Nikolas P. Breuckmann*
