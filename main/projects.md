@@ -28,6 +28,7 @@ Theoretically analyzed a possible new gate by considering coupling between spin 
 
 ### [7. Bosonic Quantum Error Correction](/projects/Bosonicerror) 
 
+### [8. High-fidelity multipartite entanglement creation in non-Hermitian qubits](/projects/poster2) 
 
 
 More projects coming soon!
