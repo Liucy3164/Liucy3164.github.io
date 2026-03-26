@@ -46,6 +46,11 @@ A curated list of papers that I found interesting or influential.
 - **[Operator quantum error-correcting subsystems for self-correcting quantum memories](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.73.012340)**  
   *Dave Bacon*
   *Phys. Rev. A 73, 012340 – Published 30 January, 2006*
+- **[Dynamically Generated Logical Qubits](https://quantum-journal.org/papers/q-2021-10-19-564/)**  
+  *Matthew B. Hastings and Jeongwan Haah*
+  *Quantum 5, 564 (2021)*
+
+
 
 -Decoding and code constructions
 - **[Degenerate Quantum LDPC Codes With Good Finite Length Performance](https://arxiv.org/abs/1904.02703)**  
